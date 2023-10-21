@@ -1,11 +1,10 @@
 Package: middtidy
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Title: 3 TidyTuesday Datasets
+Version: 0.2.0
+Author: Chris Desjardins
+Maintainer:  Chris Desjardins <yourself@somewhere.net>
+Description: Contains 3 TidyTuesday datasets.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
